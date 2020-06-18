@@ -1,2 +1,3 @@
-# Predicting-Law-Making-in-Kenya
-Predicting the outcome of a bill - if it will be enacted or not. 
+# Predicting and Analyzing Law-Making in Kenya
+Code for https://arxiv.org/abs/2006.05493
+O. Babafemi and A. Akinfaderin. Accepted at 4th Widening NLP Workshop, Annual Meeting of the Association for Computational Linguistics, ACL 2020
